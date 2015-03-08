@@ -33,13 +33,13 @@ Los datos descargados vinieron en el formato correcto, pasamos directamente al a
 Se hizo la georeferenciacion de la accidentes vehiculares y se contrastó con la georeferencia de las distintas estasciones del Sistema Metro y del Sistema Ecobicise. La visualización de los accidentes vehiculares nos permitió encontrar zonas de riesgo. Por el contrario, con ayuda de las estaciones de transporte público pudemos dar idea al usuario como, dentro de un entorno, la vialidad podría verse mejorada si mas personas usaran estos sistemas.
 
 ###Edición final
-Por medio del programa Illustrator, creamos una serie de mapas de una campaña que podría presentarse en todo el DF, para promover el uso de estos transportes públicos ecológicos. De estos se elijieron solo 4 para la presentación, aquellos que los consideramos con alguna importancia y los imprimimos para presentarlos en la evaluación de los proyectos.
+Por medio del programa Illustrator, creamos una serie de mapas de una campaña que podría presentarse en todo el DF, para promover el uso de estos transportes públicos ecológicos. De estos se elijieron solo 4 para la presentación, aquellos que consideramos que mejor describen nuestra idea; y los imprimimos para presentarlos en la evaluación de los proyectos.
 
 ###Trabajo final
 En la evaluación de los proyectos presentaremos cuatro mapas:
-Los mapas de las delegaciones Cuauhtémoc y la de Azcapotzalco, con el 25% de los accidentes vehículares, respectivamente. 
+Los mapas de las delegaciones Cuauhtémoc y la de Azcapotzalco, con el 25% y 2% de los accidentes vehículares (de un total de aproximadamente 26500) respectivamente. 
 
-Nuestro punto final son accidentes vehículares alrededor de dos estaciones, alrededor de la estación Insurgentes del Sistema Metro y alrededor de la estación
+El último par de mapas muestra los accidentes vehículares alrededor de dos estaciones, uno es alrededor de la estación Insurgentes del Sistema Metro y alrededor de la estación del Sistema Ecobici
 
 
 
