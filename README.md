@@ -1,13 +1,19 @@
 #Descripción del proyecto
-En una ciudad como la nuestra, que sufre de un transito complicado y de niveles altos de contaminación, un solo accidente automovilístico en ciertas vias puede causar un gran conflicto. Gran parte de ellos son debido a la gran concentración de vehículos que circulan.
+En una ciudad como la nuestra, que sufre de un transito complicado y de niveles altos de contaminación, un solo accidente automovilístico en ciertas vias puede causar un gran conflicto. Gran parte de ellos son debido a la gran concentración de vehículos que circulan. 
+
 Una de las mejores soluciones, que han aplicado grandes cuidades, es fomentar el uso de transporte público ecológico. Esto permite reducir la densidad de vehículos y por tanto de la cantidad de accidentes, sin mencionar la disminución en la contaminación.
 
-#Ni choque, ni me chocaron...yo viajo en Metro (Ecobici).
+#Ni choque, ni me chocaron...yo viajo en Metro (ó en Ecobici).
+
+En esté proyecto buscamos incentivar el uso del transporte publico. Mapeamos el número de accidentes vehiculares del año 2013 al mismo tiempo que indicamos la ubicación de las estaciones del Sistema Metro y del Sistema Ecobici.
+
+Al observar los mapas los usuarios del metro y del ecobici que evitan ser parte de accidentes vehiculares. 
 
 ##Desarrollo
+
 Usamos bases de datos que georeferencian los accidentes vehículares, las estaciones del Sistema Metro y del Sistema Ecobici, en el DF. Nuestro Análisis está hecho en dos escalas: 
-*Delegación
-*Vecindad de estaciones
+-Delegación
+-Vecindad de estaciones
 
 ###Bases de datos
 Los datos de trafico provienen de esta pagina
