@@ -1,9 +1,9 @@
-#Descripción del proyecto
+#Ni choque, ni me chocaron...yo viajo en Metro (ó en Ecobici)
 En una ciudad como la nuestra, que sufre de un transito complicado y de niveles altos de contaminación, un solo accidente automovilístico en ciertas vias puede causar un gran conflicto. Gran parte de ellos son debido a la gran concentración de vehículos que circulan. 
 
 Una de las mejores soluciones, que han aplicado grandes cuidades, es fomentar el uso de transporte público ecológico. Esto permite reducir la densidad de vehículos y por tanto de la cantidad de accidentes, sin mencionar la disminución en la contaminación.
 
-#Ni choque, ni me chocaron...yo viajo en Metro (ó en Ecobici).
+##Ni choque, ni me chocaron...yo viajo en Metro (ó en Ecobici).
 
 En esté proyecto buscamos incentivar el uso del transporte publico. Mapeamos el número de accidentes vehiculares del año 2013 al mismo tiempo que indicamos la ubicación de las estaciones del Sistema Metro y del Sistema Ecobici.
 
