@@ -11,9 +11,11 @@ Al observar los mapas los usuarios del metro y del ecobici que evitan ser parte 
 
 ##Desarrollo
 
-Usamos bases de datos que georeferencian los accidentes vehículares, las estaciones del Sistema Metro y del Sistema Ecobici, en el DF. Nuestro Análisis está hecho en dos escalas: 
--Delegación
--Vecindad de estaciones
+Usamos bases de datos que georeferencian los accidentes vehículares, las estaciones del Sistema Metro y del Sistema Ecobici, en el DF. Nuestro Análisis está hecho en dos escalas:
+
+*Delegación
+
+*Vecindad de estaciones
 
 ###Bases de datos
 Los datos de trafico provienen de esta pagina
