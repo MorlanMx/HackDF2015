@@ -18,16 +18,16 @@ Usamos bases de datos que georeferencian los accidentes vehículares, las estaci
 *Vecindad de estaciones
 
 ###Bases de datos
-Los datos de trafico provienen de esta pagina
+Los datos de los reportes viales provienen de esta pagina
 http://datos.labcd.mx/dataset/
 los datos de los niveles de contaminación provienen de:
 http://www.aire.df.gob.mx/default.php
 los datos cartograficos provienen de la página del INEGI:
 http://www.inegi.org.mx/
-ubicaciones y logos de las redes del metro: pagina del evento
+las ubicaciones y logos de las redes del metro: pagina del evento
 
-###Limpieza de datos
-Se eliminaron datos que estaban vacíos o mal tomados, los reduntantes o que no servían para los propósitos de este trabajo. 
+Los datos descargados vinieron en el formato correcto, pasamos directamente al análisis
+
 
 ###Análisis de datos
 Se hizo la georeferenciacion de la accidentes vehiculares y se contrastó con la georeferencia de las distintas estasciones del Sistema Metro y del Sistema Ecobicise. La visualización de los accidentes vehiculares nos permitió encontrar zonas de riesgo. Por el contrario, con ayuda de las estaciones de transporte público pudemos dar idea al usuario como, dentro de un entorno, la vialidad podría verse mejorada si mas personas usaran estos sistemas.
