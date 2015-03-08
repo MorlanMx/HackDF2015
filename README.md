@@ -3,11 +3,11 @@ En una ciudad como la nuestra, que sufre de un transito complicado y de niveles 
 
 Una de las mejores soluciones, que han aplicado grandes cuidades, es fomentar el uso de transporte público ecológico. Esto permite reducir la densidad de vehículos y por tanto de la cantidad de accidentes, sin mencionar la disminución en la contaminación.
 
-##Ni choque, ni me chocaron...yo viajo en Metro (ó en Ecobici).
+##Ni choque, ni me chocaron...yo viajo en Metro, Ecobici.
 
-En esté proyecto buscamos incentivar el uso del transporte publico. Mapeamos el número de accidentes vehiculares del año 2013 al mismo tiempo que indicamos la ubicación de las estaciones del Sistema Metro y del Sistema Ecobici.
+En esté proyecto buscamos incentivar el uso del transporte publico mostrandfo los beneficios de su uso por medio de accidentes vehiculares. Mapeamos el número de accidentes vehiculares del año 2014 al mismo tiempo que indicamos la ubicación de las estaciones del Sistema Metro y del Sistema Ecobici.
 
-Al observar los mapas los usuarios del metro y del ecobici que evitan ser parte de accidentes vehiculares. 
+Al observar los mapas los usuarios del metro y de ecobici poden observar un beneficio grande que involucra el usar el transporte público:  evitar ser parte de conflictos vehiculares con todo lo que esto implica: posibles daños físicos, a la salud, pérdida de tiempo, gastar dinero extra en servicios de seguros, etc.
 
 ##Desarrollo
 
@@ -20,8 +20,8 @@ Usamos bases de datos que georeferencian los accidentes vehículares, las estaci
 ###Bases de datos
 Los datos de los reportes viales provienen de esta pagina
 http://datos.labcd.mx/dataset/
-los datos de los niveles de contaminación provienen de:
-http://www.aire.df.gob.mx/default.php
+y de esta otra:
+http://datos.df.gob.mx
 los datos cartograficos provienen de la página del INEGI:
 http://www.inegi.org.mx/
 las ubicaciones y logos de las redes del metro: pagina del evento
@@ -30,10 +30,10 @@ Los datos descargados vinieron en el formato correcto, pasamos directamente al a
 
 
 ###Análisis de datos
-Se hizo la georeferenciacion de la accidentes vehiculares y se contrastó con la georeferencia de las distintas estasciones del Sistema Metro y del Sistema Ecobicise. La visualización de los accidentes vehiculares nos permitió encontrar zonas de riesgo. Por el contrario, con ayuda de las estaciones de transporte público pudemos dar idea al usuario como, dentro de un entorno, la vialidad podría verse mejorada si mas personas usaran estos sistemas.
+Se hizo la georeferenciacion de la accidentes vehiculares y se contrastó con la georeferencia de las distintas estasciones del Sistema Metro y del Sistema Ecobicis. La visualización de los accidentes vehiculares nos permitió encontrar zonas de riesgo. Por el contrario, con ayuda de las estaciones de transporte público transmitimos la idea de como tanto la vialidad como el usuario podrían verse beneficiados usando estos sistemas.
 
 ###Edición final
-Por medio del programa Illustrator, creamos una serie de mapas de una campaña que podría presentarse en todo el DF, para promover el uso de estos transportes públicos ecológicos. De estos se elijieron solo 4 para la presentación, aquellos que consideramos que mejor describen nuestra idea; y los imprimimos para presentarlos en la evaluación de los proyectos.
+Por medio del programa Illustrator, creamos una serie de mapas de una campaña que podría presentarse en todo el DF, para promover el uso de estos transportes públicos. De estos mapas se elijieron solo 4 para la presentación: dos a nivel delegación, uno en una zona próxima a una estación de ecobici y otro en una zona próxima a una estación del metro. Los mapas se imprimieron para presentarlos en la evaluación de los proyectos.
 
 ###Trabajo final
 En la evaluación de los proyectos presentaremos cuatro mapas:
