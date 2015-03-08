@@ -5,9 +5,9 @@ Una de las mejores soluciones, que han aplicado grandes cuidades, es fomentar el
 
 ##Ni choque, ni me chocaron...yo viajo en Metro, Ecobici.
 
-En esté proyecto buscamos incentivar el uso del transporte publico mostrandfo los beneficios de su uso por medio de accidentes vehiculares. Mapeamos el número de accidentes vehiculares del año 2014 al mismo tiempo que indicamos la ubicación de las estaciones del Sistema Metro y del Sistema Ecobici.
+En esté proyecto buscamos incentivar el uso del transporte publico mostrando los beneficios de su uso; resaltando los  accidentes vehiculares. Mapeamos cada uno de accidentes vehiculares del año 2014 al mismo tiempo que indicamos la ubicación de las estaciones del Sistema Metro y del Sistema Ecobici.
 
-Al observar los mapas los usuarios del metro y de ecobici poden observar un beneficio grande que involucra el usar el transporte público:  evitar ser parte de conflictos vehiculares con todo lo que esto implica: posibles daños físicos, a la salud, pérdida de tiempo, gastar dinero extra en servicios de seguros, etc.
+Al observar los mapas los usuarios del metro y de ecobici pueden observar el gran beneficio que involucra el usar el transporte público:  evitar ser parte de conflictos vehiculares, con todo lo que esto implica: posibles daños físicos, a la salud, pérdida de tiempo, gastar dinero extra en servicios de seguros, etc.
 
 ##Desarrollo
 
@@ -40,10 +40,5 @@ En la evaluación de los proyectos presentaremos cuatro mapas:
 Los mapas de las delegaciones Cuauhtémoc y la de Azcapotzalco, con el 25% y 2% de los accidentes vehículares (de un total de aproximadamente 26500) respectivamente. 
 
 El último par de mapas muestra los accidentes vehículares alrededor de dos estaciones, uno es alrededor de la estación Insurgentes del Sistema Metro y alrededor de la estación del Sistema Ecobici
-
-
-
-
-
 
 
